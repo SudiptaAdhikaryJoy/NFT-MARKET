@@ -1,0 +1,8 @@
+{
+  "title": "Image Gallery",
+  "description": "Image Gallery is a project using NextJs, TailwindCSS, Styled Component and AntD , Material UI",
+  "url": "www.imagegallery.com",
+  "image": "./imagegallery.png",
+  "type": "website",
+  "keywords": "Image Gallery is a project using NextJs, TailwindCSS, Styled Component and AntD , Material UI"
+}
