@@ -43,7 +43,7 @@ const CreateSell = () => {
 								Create and sell your NFTs
 							</h1>
 						</div>
-						<div className=' py-5 '>
+						<div className=' py-6 '>
 							<p className=" text-lg w-[80%] ">
 								{`Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi ac phasellus placerat a pellentesque tellus sed egestas. Et tristique dictum sit tristique sed non. Lacinia lorem id consectetur pretium diam ut. Pellentesque eu sit blandit fringilla risus faucibus.`}
 							</p>
