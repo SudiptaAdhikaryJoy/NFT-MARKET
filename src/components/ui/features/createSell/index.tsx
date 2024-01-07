@@ -40,7 +40,7 @@ const CreateSell = () => {
 					<div>
 						<div>
 							<h1 className=" font-bold text-4xl w-[48%] uppercase">
-								Create and sell your NFTs
+								Create and sell your NFTs!
 							</h1>
 						</div>
 						<div className=' py-6 '>
